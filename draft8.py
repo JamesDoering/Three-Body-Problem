@@ -117,7 +117,6 @@ plt.plot(earx, eary, 'b', label='Earth')
 plt.plot(jupx, jupy, 'y', label='Jupiter')
 plt.plot(satx, saty, 'g', label='Satellite')
 plt.show()
-'''my name jeff''
 
 
 
